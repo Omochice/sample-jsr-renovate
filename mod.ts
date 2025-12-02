@@ -1,2 +1,2 @@
-import { ulid } from "jsr:@std/ulid@0.213.1";
+import { ulid } from "jsr:@std/ulid@0.224.0";
 console.log(ulid());
